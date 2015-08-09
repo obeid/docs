@@ -60,4 +60,4 @@ Test: Download a package globally without using `sudo`.
 
 Instead of steps 2-4 you can also use the corresponding ENV variable (e.g. if you don't want to modify `~/.profile`):
 
-        NPM_CONFIG_PREFIX=~/npm-global npm install -g jshint
+        NPM_CONFIG_PREFIX=~/npm-global
